@@ -1,0 +1,25 @@
+[{
+  "img": "./static/image/warm.jpg",
+  "url" : "/component/warm",
+  "title": "暖心理财"
+},{
+  "img": "./static/image/October.png",
+  "url" : "/component/steady",
+  "title": "稳健理财"
+},{
+  "img": "./static/image/mofan5.jpg",
+  "url" : "/component/mofan",
+  "title": "摩凡12月投基指南"
+},{
+  "img": "./static/image/Banner-cash1.jpg",
+  "url" : "/component/efund",
+  "title": "厉害了！我的现金宝"
+},{
+  "img": "./static/image/investbanner.png",
+  "url" : "/component/investevent",
+  "title": "躺着赚钱的基金定投"
+},{
+  "img": "./static/image/banner_two@2x.png",
+  "url" : "/component/safe",
+  "title": "理财安全保障"
+}]
